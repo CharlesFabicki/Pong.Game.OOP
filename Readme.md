@@ -1,9 +1,5 @@
 # Pong Game
 
-![Pong Game](pong_game_screenshot.png)
-
-## Description
-
 This is a simple implementation of the classic Pong game using Python's Turtle graphics library. The game features two paddles and a ball that bounces between them. Players can control the paddles to prevent the ball from passing their side. The objective of the game is to score points by making the ball pass the opponent's paddle.
 
 ## How to Play
@@ -32,10 +28,6 @@ The game starts automatically when you run the program. The ball will bounce off
 python main.py
 
 4. Follow the on-screen instructions to control the paddles using the specified keys.
-
-## Credits
-
-This Pong game was created by [Your Name].
 
 ## License
 
