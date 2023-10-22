@@ -36,8 +36,6 @@ python main.py
 
 Feel free to modify and distribute the game according to the terms of the license.
 
-## Acknowledgments
 
-Special thanks to the Turtle graphics library for making it easy to create graphical applications and games in Python.
 
 Have fun and enjoy the game! If you have any feedback or suggestions, please feel free to contact me
